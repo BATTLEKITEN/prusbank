@@ -9,3 +9,5 @@ Loginy i hasła
 admin:123456
 pracownik:123456
 user:123456
+
+W pliku prusbank/php/server.php należy wpisać login, hasło oraz adres serwera bazy danych
